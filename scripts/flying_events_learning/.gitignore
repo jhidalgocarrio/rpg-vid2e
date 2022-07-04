@@ -1,0 +1,3 @@
+log/*
+utils/__pycache__/
+N-Caltech101/
